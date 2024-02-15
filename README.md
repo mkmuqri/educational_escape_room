@@ -39,10 +39,10 @@ Because this project is more focused on development rather than data, the "datas
 To start off the project I will be completing Unity tutorials through Unity learn. Starting off with the basic Unity fundamentals and then going onto Unity VR tutorials. From then on I plan on creating the base room, and testing to make sure the user is able to move around and interact with items in the room. After that I will add puzzle functionality and test again. Then I will my own twists to the puzzles already included in the assets to create an educational environment. Finally, I will go back and make sure that everything works and then try and find a way to demo it during Furman engaged.
 
 
-##Evaluation
+## Evaluation
 The way I will know if my project is successful, is if it works seamlessly multiple times, and if it is actually possible to escape the room. I will also know the level of success if it works with someone around the age group I am targeting. For testing the escape room, I can ask around if I can try on elementary school class. For example, I could ask a GCS elementary school to try on kids around the age group I'm targeting and see if they can make it out of the room. If at least a majority are able to, I would consider it a success. I would also test to see if the teacher(s) think it could be something that would be a fun activity to incorporate in classes, as well as how much the kids enjoyed it.
 
 
-##Dissemination
+## Dissemination
 Ideally I would like to have either a live demo at Furman Engaged, or display a screen recording of the escape room. I would make the source code available publicly via GitHub.
 
